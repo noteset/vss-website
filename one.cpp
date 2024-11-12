@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-cout<<"9";
+cout<<"good girl hansika";
 return 0;
 }
